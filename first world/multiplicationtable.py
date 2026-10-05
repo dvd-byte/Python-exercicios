@@ -1,0 +1,2 @@
+number = int(input("Enter a number: "))
+print(f"The multiplication table of {number} is:\n{number * 1}\n{number * 2}\n{number * 3}\n{number * 4}\n{number * 5}\n{number * 6}\n{number * 7}\n{number * 8}\n{number * 9}\n{number * 10}")
